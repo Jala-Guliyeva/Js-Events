@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AACI,SADK,CACL,UAAU,CAAA;EACN,WAAW,EAAE,GAAG;CAOnB;;AATL,AAGQ,SAHC,CACL,UAAU,CAEN,CAAC,CAAA;EACG,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/_gift.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
